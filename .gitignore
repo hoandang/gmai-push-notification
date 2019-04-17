@@ -1,0 +1,4 @@
+*.log
+token.json
+credentials.json
+google*.html
